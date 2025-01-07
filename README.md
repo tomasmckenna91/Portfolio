@@ -1,4 +1,9 @@
-# Portfolio
+# Tomas Mckenna's Portfolio
 
-# heading 1
-# heading 2
+## Data Scientist
+I am a dedicated data science apprentice at NatWest Bank, leveraging my diverse professional background to develop innovative data-driven solutions. Prior to this role, I gained extensive experience in customer service, including managerial positions in retail. Within NatWest, I have honed my expertise in Debt Management, spanning personal banking Collections, Recoveries, and five years in Debt Sale, where I collaborated closely with third-party vendors. This unique combination of technical training and practical experience equips me with the analytical skills and business acumen to deliver meaningful insights and drive impactful decisions.
+
+## Education
+BA (hons) Phtography (2016)
+
+
